@@ -63,7 +63,7 @@ module('module1', {
         console.log('module1 setup...');
     },
     teardown: function () {
-        console.log('module1 teardonw...');
+        console.log('module1 teardown...');
     }
 });
 test('module1 dummmy', function () {
