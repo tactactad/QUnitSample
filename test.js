@@ -70,4 +70,8 @@ test('module1 dummmy', function () {
     expect(0);
     console.log('module1 dummy');
 });
+test('module1 dummy2', function () {
+    expect(0);
+    console.log('module1 dummy2');
+});
 
